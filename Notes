@@ -1,0 +1,23 @@
+E1:
+
+Reat & React DOM
+
+react library for core functionality
+react dom library for handling DOM
+
+-----------------
+
+need a root element to render any element to the DOM
+
+react.createElement(1,2,3);
+
+got 3 arguments
+1. type of html element tag - li div h1 h2 etc
+2. object for providing attributes to html element like id, color - {id:"",color:""}
+3. children for the html element - like text to show for a header tag. <h1>"Hello"</h1>
+
+reactDOM.createRoot(set reference to any element like a div with id "root") - <div id="root"></div>
+
+root.render(createdElement);
+
+-----------------------------------
