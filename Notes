@@ -26,6 +26,7 @@ E2:
 
 NPM - repository for node packages
 package.json is config for NPM
+package lock will have exact version of packages. Need to maintain on git
 
 contains app details and package
 
@@ -35,3 +36,4 @@ package upgrade : either to minor version ^ or to major version ~
 parcel package for bundling the react app
 
 npx parcel index.html to run your app on local dev server
+
