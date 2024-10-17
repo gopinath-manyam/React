@@ -1,0 +1,27 @@
+{
+  "name": "react-essentials",
+  "version": "1.0.0",
+  "description": "Tiny react components and working software",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gopinath-manyam/React.git"
+  },
+  "author": "Gopinath",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gopinath-manyam/React/issues"
+  },
+  "homepage": "https://github.com/gopinath-manyam/React#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  }
+}

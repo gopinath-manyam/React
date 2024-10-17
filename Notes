@@ -21,3 +21,17 @@ reactDOM.createRoot(set reference to any element like a div with id "root") - <d
 root.render(createdElement);
 
 -----------------------------------
+
+E2:
+
+NPM - repository for node packages
+package.json is config for NPM
+
+contains app details and package
+
+dev dependancies and production dependancies
+package upgrade : either to minor version ^ or to major version ~
+
+parcel package for bundling the react app
+
+npx parcel index.html to run your app on local dev server
